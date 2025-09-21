@@ -4,7 +4,8 @@ I write code that sometimes works… and sometimes just creates new bugs.
 
 ### 🧩 About me
 - 🔭 Currently pretending to know what I’m doing  
-- 🌱 Learning new tech so I can break things in more creative ways  
+- 🌱 Learning new tech so I can break things in more creative ways
+- 🙏 Suffers from Impostor syndrome, like everyone in the industry
 
 ---
 
@@ -15,5 +16,4 @@ I write code that sometimes works… and sometimes just creates new bugs.
 
 ---
 
-💡 *“It’s not a bug, it’s a feature.”*  
-☠️ *_“If it works, don’t touch it. If it doesn’t… good luck.💀💀💀”_*
+If it works, don’t touch it. If it doesn’t…💀💀💀.
