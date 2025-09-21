@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @VuAnhTuan1805
-- 🌱 I’m currently learning Computer Science, and AI additionally by myself
+# Hey 👋
 
-<!---
-VuAnhTuan1805/VuAnhTuan1805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m **Tuan**.  
+I write code that sometimes works… and sometimes just creates new bugs.  
+
+---
+
+### 🧩 About me
+- 🔭 Currently pretending to know what I’m doing  
+- 🌱 Learning new tech so I can break things in more creative ways  
+
+---
+
+### 🛠️ Skills (allegedly)
+- 💻 Languages: [Java, TS, C#]  
+- ⚡ Frameworks: [React, Spring Boot, .NET]  
+- 🗄️ Databases: [MySQL, MongoDB]  
+
+---
+
+💡 *“It’s not a bug, it’s a feature.”*  
+☠️ *“If it works, don’t touch it. If it doesn’t… good luck.”*
