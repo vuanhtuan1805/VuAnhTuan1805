@@ -16,4 +16,4 @@ I write code that sometimes works… and sometimes just creates new bugs.
 ---
 
 💡 *“It’s not a bug, it’s a feature.”*  
-☠️ *“If it works, don’t touch it. If it doesn’t… good luck.”*
+☠️ *_“If it works, don’t touch it. If it doesn’t… good luck.💀💀💀”_*
