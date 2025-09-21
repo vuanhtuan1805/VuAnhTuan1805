@@ -1,6 +1,3 @@
-# Hey 👋
-
-I’m **Tuan**.  
 I write code that sometimes works… and sometimes just creates new bugs.  
 
 ---
