@@ -1,4 +1,4 @@
-I write code that sometimes works… and sometimes just creates new bugs.  
+I create bugs intentionally.
 
 ---
 
